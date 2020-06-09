@@ -9,7 +9,7 @@ razy! What, you don't want any spoilers? Okay well let me just tell you who died
   def raise_hand
     10.times do
    super
- end 
+    end
 
   end
 
